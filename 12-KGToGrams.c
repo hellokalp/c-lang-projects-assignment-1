@@ -8,6 +8,6 @@ int main()
 
     printf("Enter KG:");
     scanf("%f",&g);
-    printf("Grams=%.2f\n",g/1000);
+    printf("Grams=%.2f\n",g*1000);
 }
 
